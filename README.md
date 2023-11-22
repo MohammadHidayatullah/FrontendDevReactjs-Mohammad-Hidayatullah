@@ -1,3 +1,13 @@
+# Deployed URl
+https://main--sage-biscotti-04bdad.netlify.app
+
+# React and Node Version
+React 18.2.0
+Node v20.9.0
+
+# API Key sewaktu - waktu expired, anda harus register ulang api pada link berikut
+https://rapidapi.com/apidojo/api/travel-advisor
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,10 +78,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-
-React and Node Version
-React 18.2.0
-Node v20.9.0
-
-API Key sewaktu - waktu expired, anda harus register ulang api pada link berikut
-https://rapidapi.com/apidojo/api/travel-advisor/
